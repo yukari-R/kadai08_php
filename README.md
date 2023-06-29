@@ -9,6 +9,7 @@
 
 ## 苦戦した点
   - $_FILES　が空っぽになってしまう　→ input typeに「enctype="multipart/form-data」を追加することで解消
+  - move_uploaded_filesが効かない→ フォルダの権限の変更が必要
 
 ## 参考にした web サイトなど
   -　　⭐️全体の参考（この動画を見ながら真似して同じように作成し、デザイン面をアレンジ）

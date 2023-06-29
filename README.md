@@ -18,4 +18,5 @@
   - https://wepicks.net/phpref-files/
   - グローバル変数、＄_SERVERの理解
   - https://wepicks.net/phpref-server/
-  - 
+  - move_uploaded_filesが効かない時の対処
+  - http://blog.livedoor.jp/kmiwa_project/archives/1061206725.html
